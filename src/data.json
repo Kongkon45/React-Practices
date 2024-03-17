@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Alice",
+    "body": "This is the body of the first item."
+  },
+  {
+    "id": 2,
+    "name": "Bob",
+    "body": "This is the body of the second item."
+  },
+  {
+    "id": 3,
+    "name": "Charlie",
+    "body": "This is the body of the third item."
+  }
+]
